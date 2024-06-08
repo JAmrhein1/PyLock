@@ -34,17 +34,7 @@ v: View saved credentials.
 q: Quit the application.
 
 ### Example
-______      _                _    
-| ___ \    | |              | |   
-| |_/ /   _| |     ___   ___| | __
-|  __/ | | | |    / _ \ / __| |/ /
-| |  | |_| | |___| (_) | (__|   < 
-\_|   \__, \_____/\___/ \___|_|\_|
-       __/ |                      
-      |___/
-
-Welcome to PyLock!
-Do you want to (**g**)enerate a new password, (**v**)iew saved credentials, or (**q**)uit? 
+![image](https://github.com/JAmrhein1/PyLock/assets/167656090/b1bd792f-e8aa-4b24-8e42-675fc91ac8ff)
 
 ### Security Notes
 
